@@ -23,10 +23,17 @@
 #Extend List
 #To append elements from another list to the current list, use the extend() method
 
-thislist = ["Apple", "Banana", "Cherry"]
-tropical = ["Mango", "Pineapple", "Papaya"]
-thislist.extend(tropical)
-print(thislist)
+# thislist = ["Apple", "Banana", "Cherry"]
+# tropical = ["Mango", "Pineapple", "Papaya"]
+# thislist.extend(tropical)
+# print(thislist)
+
+#Remove List Items
+#The remove() method removes the specified item
+
+# thislist = ["Apple", "Banana", "Cherry"]
+# thislist.remove("Banana")
+# print(thislist)
 
 
 
