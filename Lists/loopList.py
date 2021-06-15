@@ -9,4 +9,7 @@
 #for i in range(len(thislist)):
 #    print(thislist[i])
 
+#Using a while loop
+
+
 
