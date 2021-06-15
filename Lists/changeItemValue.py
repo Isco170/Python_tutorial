@@ -38,9 +38,16 @@
 #Remove specified index
 #The pop() method removes the specified index
 
-thislist = ["Apple", "Banana", "Cherry"]
-thislist.pop(1)
-print(thislist)
+#thislist = ["Apple", "Banana", "Cherry"]
+#thislist.pop(1)
+#print(thislist)
+
+#If you do not specify the index, the pop() method removes the last item
+
+#thislist = ["Apple", "Banana", "Cherry"]
+#thislist.pop()
+#print(thislist)
+
 
 
 
