@@ -20,4 +20,13 @@
 # thislist.append("Orange")
 # print(thislist)
 
+#Extend List
+#To append elements from another list to the current list, use the extend() method
+
+thislist = ["Apple", "Banana", "Cherry"]
+tropical = ["Mango", "Pineapple", "Papaya"]
+thislist.extend(tropical)
+print(thislist)
+
+
 
