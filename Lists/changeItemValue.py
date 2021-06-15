@@ -59,6 +59,14 @@
 #del thislist
 #print(thislist)
 
+#CLear()
+#The clear method empties the list, the list remains, but it has no content
+
+#thislist = ["Apple", "Banana", "Cherry"]
+#print(thislist)
+#thislist.clear()
+#print(thislist)
+
 
 
 
