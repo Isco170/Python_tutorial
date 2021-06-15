@@ -35,5 +35,12 @@
 # thislist.remove("Banana")
 # print(thislist)
 
+#Remove specified index
+#The pop() method removes the specified index
+
+thislist = ["Apple", "Banana", "Cherry"]
+thislist.pop(1)
+print(thislist)
+
 
 
