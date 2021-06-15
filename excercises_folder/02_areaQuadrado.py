@@ -1,5 +1,6 @@
-lado = input("Digite a medida de um dos lados do quadrado: ")
+lado = int(input("Digite a medida de um dos lados do quadrado: "))
 
-area = int(lado**lado)
+# area = int(lado) ** int(lado)
+area = lado**lado
 
-print("Area: " + area)
+print("Area do quadrado: " + str(area))
