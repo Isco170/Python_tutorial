@@ -11,11 +11,14 @@
 
 #Using a while loop
 
-thislist = ["Apple", "Banana", "Cherry"]
-i = 0
-while i < len(thislist):
-    print(thislist[i])
-    i = i + 1
+#thislist = ["Apple", "Banana", "Cherry"]
+#i = 0
+#while i < len(thislist):
+#    print(thislist[i])
+#    i = i + 1
 
+
+thislist = ["Apple", "Banana", "Cherry"]
+[print(x) for x in thislist]
 
 
