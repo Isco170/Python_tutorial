@@ -48,6 +48,17 @@
 #thislist.pop()
 #print(thislist)
 
+#DEL
+#The del keyword also removes the specified index
+# thislist = ["Apple", "Banana", "Cherry"]
+# del thislist[0]
+# print(thislist)
+
+#thislist = ["Apple", "Banana", "Cherry"]
+#print(thislist)
+#del thislist
+#print(thislist)
+
 
 
 
