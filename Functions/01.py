@@ -1,7 +1,11 @@
-# def my_function():
-#     print("Hello from a function")
+#CRIAR FUNCAO
+ def imprimeTexto():
+    print("Hello from a function")
 
-# my_function()
+def retornaValor():
+    return 1
+
+
 
 # def my_function(fname):
 #     print(fname + " Refsnes")
@@ -11,9 +15,9 @@
 # my_function("Linus")
 
 #Return Values
-def my_function(x):
-    return 5 * x
+#def my_function(x):
+ #   return 5 * x
 
-print(my_function(3))
-print(my_function(5))
-print(my_function(9))
+#print(my_function(3))
+#print(my_function(5))
+#print(my_function(9))
