@@ -16,6 +16,9 @@
 
 fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
 
-newList = [ x for x in fruits if "a" in x]
+# newList = [ x for x in fruits if "a" in x]
+
+# Only accept items that are not "apple"
+newList = [x for x in fruits if x != "apple"]
 
 print(newList)
